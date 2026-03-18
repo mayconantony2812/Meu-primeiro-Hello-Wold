@@ -1,0 +1,6 @@
+metro= float(input("Digite quantos Metros são: "))
+centimetros= metro/100
+milimetros= metro/1000
+print("Voce tem", metro)
+print("Esses são os centimetros do Metro", centimetros)
+print("Esses são os milimetros do Metro", milimetros)
