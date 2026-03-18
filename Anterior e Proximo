@@ -1,0 +1,6 @@
+numero= int(input("Digite um Numero: "))
+anterior= numero -1
+proximo= numero +1
+print("O numero que Voce Digitou é", numero)
+print("O anterior dele é:", anterior)
+print("O proximo dele é:", proximo)
