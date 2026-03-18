@@ -1,0 +1,6 @@
+nota1 = float(input("Digite Sua Primeira Nota: "))
+nota2 = float(input("Digite Sua Segunda Nota: "))
+nota3 = float(input("Digite Sua Terceira Nota: "))
+soma= nota1 + nota2 + nota3
+divisao= soma /3
+print("Sua Media é", divisao)
