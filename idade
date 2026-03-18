@@ -1,0 +1,3 @@
+idade= int(input("Quantos Anos Voce Tem: "))
+dias= idade * 365
+print("Voce Viveu:", dias, "Dias")
